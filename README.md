@@ -3,8 +3,6 @@ AI chatbot for banking purposes made with ibm watsonx api
 
 
 
-00
-
 An Al-powered chatbot providing banking solutions using IBM WatsonX Assistant and IBM Cloud.
 
 Features
@@ -24,5 +22,3 @@ Technologies Used
 • IBM Cloud Object Storage - Stores user diet logs
 
 • Python / Flask - Backend logic
-
-• Nutrition APIs - (Edamam, Nutritionix) for food data
