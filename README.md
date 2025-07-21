@@ -1,4 +1,4 @@
-# Banking-Buddy
+Introducing Banking-Buddy
 AI chatbot for banking purposes made with ibm watsonx api
 
 
